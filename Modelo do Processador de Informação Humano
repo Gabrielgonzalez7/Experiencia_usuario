@@ -1,0 +1,14 @@
+            Interfaces Humano-Computador:
+    Modelo do Processador de Informação Humano (MPIH)
+
+*Subsistema Perceptual(SP)
+  -Processador Perceptual(PP)
+    -->Memória Imagem Visual(MIV) ou Memória Imagem Auditiva(MIA)
+
+*Subsistema Cognitivo(SC)
+  -Memória de Trabalgho ou Memória de Curta Duração(MT/MCD)
+  ->Processador Cognitivo(PC)
+    -Memória de Longa duração(MLD)
+
+*Subsistema Motor(SM)
+  -Processador Motor(PM)
